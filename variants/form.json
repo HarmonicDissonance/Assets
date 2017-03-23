@@ -1,0 +1,32 @@
+{
+  "201" : {
+    "1" : {"name": "A", "suffix":"-a"},
+    "2" : {"name": "B", "suffix":"-b"},
+    "3" : {"name": "C", "suffix":"-c"},
+    "4" : {"name": "D", "suffix":"-d"},
+    "5" : {"name": "E", "suffix":"-e"},
+    "6" : {"name": "F", "suffix":"-f"},
+    "7" : {"name": "G", "suffix":"-g"},
+    "8" : {"name": "H", "suffix":"-h"},
+    "9" : {"name": "I", "suffix":"-i"},
+    "10" :{"name": "J", "suffix":"-j"},
+    "11" :{"name": "K", "suffix":"-k"},
+    "12" :{"name": "L", "suffix":"-l"},
+    "13" :{"name": "M", "suffix":"-m"},
+    "14" :{"name": "N", "suffix":"-n"},
+    "15" :{"name": "O", "suffix":"-o"},
+    "16" :{"name": "P", "suffix":"-p"},
+    "17" :{"name": "Q", "suffix":"-q"},
+    "18" :{"name": "R", "suffix":"-r"},
+    "19" :{"name": "S", "suffix":"-s"},
+    "20" :{"name": "T", "suffix":"-t"},
+    "21" :{"name": "U", "suffix":"-u"},
+    "22" :{"name": "V", "suffix":"-v"},
+    "23" :{"name": "W", "suffix":"-w"},
+    "24" :{"name": "X", "suffix":"-x"},
+    "25" :{"name": "Y", "suffix":"-y"},
+    "26" :{"name": "Z", "suffix":"-z"},
+    "27" :{"name": "!", "suffix":"-em"},
+    "28" :{"name": "?", "suffix":"-qm"}
+  }
+}
